@@ -1,0 +1,6 @@
+ls
+fj
+!q
+clear
+ls-l sample.txt
+
